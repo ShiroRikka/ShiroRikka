@@ -1,7 +1,7 @@
 <!-- 动态打字效果 -->
 <h1 align="center">
   <a href="https://shirorikka.frp.cx/">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=800080&width=520&lines=%E7%88%86%E8%A3%82%E5%90%A7%2C%E7%8E%B0%E5%AE%9E!%E7%B2%89%E7%A2%8E%E5%90%A7%2C%E7%B2%BE%E7%A5%9E!+Vanishment+This+World!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=800080&width=520&lines=%E7%88%86%E8%A3%82%E5%90%A7%2C%E7%8E%B0%E5%AE%9E!%E7%B2%89%E7%A2%8E%E5%90%A7%2C%E7%B2%BE%E7%A5%9E!+Vanishment+This+World!" alt="Typing SVG" />
     </a>
 </h1>
 <!-- 个人资料徽标 -->
@@ -16,7 +16,7 @@
 <!--![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)-->
 <!--![Java](https://img.shields.io/badge/-java-yellow?style=flat-square&logo=java)-->
 <!--![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)-->
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&<!--logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-pink?style=flat-square&logo=Python)
@@ -67,7 +67,7 @@
 
 <!-- GitHub数据统计 -->
 <div align="center">
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=shirorikka&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=shirorikka&hide_title=true&hide_border=true&show_icons=true&line_height=21&text_color=000&icon_color=000&bg_color=0,#ea6161,#ffc64d,#fffc4d,#52fa5a&theme=graywhite" />
   <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shirorikka&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 </div>
 
@@ -75,26 +75,20 @@
 
 <!-- END_SECTION:blog -->
 
-</td>
-<td valign="top">
- 
-</table>
 
 <!-- wakatime 统计 -->
-<table align="center">
-<tr>
-<td valign="top">
+<div align="center">
 
+
+<!-- wakatime 统计 -->
+<div align="center">
 <!--START_SECTION:waka-->
 
-
 <!--END_SECTION:waka-->
-
-</tr>
-</table>
+</div>
 
 <!-- GitHub Activity Graph -->
-<div align="center"><img src="https://activity-graph.herokuapp.com/graph?username=anzhiyu-c&theme=xcode" /></div>
+<div align="center"><img src="https://activity-graph.herokuapp.com/graph?username=shirorikka&theme=xcode" /></div>
 
 # 🤝 Social
 
