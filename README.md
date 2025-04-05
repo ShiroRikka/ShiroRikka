@@ -92,5 +92,4 @@
 <!-- BiliBili和CSDN数据 -->
 <div align="center">
   <a href="https://space.bilibili.com/353878334"><img src="https://stats.justsong.cn/api/bilibili/?id=353878334"/></a>
-  <a href="https://blog.csdn.net/CZW2268025923?spm=1001.2014.3001.5343"><img src="https://stats.justsong.cn/api/steam/Shiro"/></a>
 </div>
