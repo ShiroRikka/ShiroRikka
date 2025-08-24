@@ -1,3 +1,6 @@
+<img align="right" src="https://raw.githubusercontent.com/ShiroRikka/ShiroRikka/metrics-renders/github-metrics.svg" />
+
+
 <!-- 动态打字效果 -->
 <h1 align="center">
   <a href="https://shirorikka.off.sd/">
