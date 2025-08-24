@@ -5,4 +5,4 @@
     </a>
 </h1>
   
-<img src="https://raw.githubusercontent.com/ShiroRikka/ShiroRikka/metrics-renders/github-metrics.svg" />
+<img align="center" src="https://raw.githubusercontent.com/ShiroRikka/ShiroRikka/metrics-renders/github-metrics.svg" />
