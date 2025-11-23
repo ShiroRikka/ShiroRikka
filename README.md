@@ -8,13 +8,6 @@
   </a>
 </h1>
 
-<p align="center">
-  <img
-    src="https://count.getloli.com/get/@shirorikka.shirorikka?theme=rule34"
-    alt="Visitors"
-  />
-</p>
-
 <div align="center">
   <img
     src="https://raw.githubusercontent.com/ShiroRikka/ShiroRikka/metrics-renders/github-metrics.svg"
