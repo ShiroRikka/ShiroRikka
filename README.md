@@ -1,22 +1,15 @@
-<!-- 动态打字效果 -->
-<h1 align="center">
-  <a href="https://shirorikka.dpdns.org/">
-    <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=800080&width=520&lines=%E7%88%86%E8%A3%82%E5%90%A7%2C%E7%8E%B0%E5%AE%9E!%E7%B2%89%E7%A2%8E%E5%90%A7%2C%E7%B2%BE%E7%A5%9E!+Vanishment+This+World!"
-      alt="Typing SVG"
-    />
-  </a>
-</h1>
+<div align="center">
 
-<p align="center">
+<!-- 动态打字效果 -->
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=27&pause=1000&color=800080&center=true&width=750&height=100&lines=爆裂吧，现实！粉碎吧，精神！++Vanishment+This+World!;遵从血的盟约，我在此召唤汝！出现吧，黑暗泽克斯原始型Ⅱ！;邪王真眼是最强的！;啊，我的眼睛，眼睛……;不要扯我的呆毛，那是我的萌点所在……)](https://git.io/typing-svg)
+
+  <img
+    src="https://raw.githubusercontent.com/ShiroRikka/ShiroRikka/metrics-renders/github-metrics.svg"
+  />
+
   <img
     src="https://count.getloli.com/get/@shirorikka.shirorikka?theme=rule34"
     alt="Visitors"
-  />
-</p>
-
-<div align="center">
-  <img
-    src="https://raw.githubusercontent.com/ShiroRikka/ShiroRikka/metrics-renders/github-metrics.svg"
   />
 </div>
